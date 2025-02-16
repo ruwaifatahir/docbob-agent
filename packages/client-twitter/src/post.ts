@@ -59,7 +59,7 @@ Guidelines:
 - Do not repeat themes, topics, or styles from recent posts shown above
 - Create fresh, unique perspectives and insights
 - Do not add commentary or acknowledge this request
-- Use 1-2 sentences (choose length randomly)
+- Use 1-3 sentences (choose length randomly)
 - No questions - only brief, concise statements
 - Total character count MUST be less than {{maxTweetLength}}
 - No emojis
